@@ -1,3 +1,4 @@
+## Steps for replicating this repo setup from scratch
 - Create src with index.js
 - Create dist with main.js
 - Create webpack.config.js
