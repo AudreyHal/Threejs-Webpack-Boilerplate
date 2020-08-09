@@ -1,9 +1,5 @@
-# Mininimal Webpack Config Boilerplate
-This project has webpack set up to help you easily get up and running with  your html projects with need for module bundling.
-
-## Why Webpack
-https://webpack.js.org/concepts/why-webpack/
-
+# Threejs Webpack Boilerplate
+A boilerplate for threejs projects.
 
 ## Running Locally
 - Clone the repository
