@@ -1,5 +1,5 @@
-# Threejs Webpack Boilerplate
-A boilerplate for threejs projects.
+# Globe Project
+A practice project from https://blog.bitsrc.io/developing-a-small-world-in-three-js-c870b93c6afc
 
 ## Running Locally
 - Clone the repository.
