@@ -1,5 +1,5 @@
 import './styles.css';
-import * as THREE from 'three/build/three.module.js';
+import * as THREE from 'three';
 
 let camera, scene, renderer;
 
